@@ -11,3 +11,16 @@ C:\Users\Artem.DESKTOP-HH3CPI0\source\repos\VoskTest\VoskTest\obj\Debug\VoskTest
 C:\Users\Artem.DESKTOP-HH3CPI0\source\repos\VoskTest\VoskTest\obj\Debug\VoskTest.csproj.CopyComplete
 C:\Users\Artem.DESKTOP-HH3CPI0\source\repos\VoskTest\VoskTest\obj\Debug\VoskTest.exe
 C:\Users\Artem.DESKTOP-HH3CPI0\source\repos\VoskTest\VoskTest\obj\Debug\VoskTest.pdb
+F:\GitHome\VoskTestProblem\VoskTest\bin\Debug\libgcc_s_seh-1.dll
+F:\GitHome\VoskTestProblem\VoskTest\bin\Debug\libstdc++-6.dll
+F:\GitHome\VoskTestProblem\VoskTest\bin\Debug\libvosk.dll
+F:\GitHome\VoskTestProblem\VoskTest\bin\Debug\libwinpthread-1.dll
+F:\GitHome\VoskTestProblem\VoskTest\bin\Debug\VoskTest.exe.config
+F:\GitHome\VoskTestProblem\VoskTest\bin\Debug\VoskTest.exe
+F:\GitHome\VoskTestProblem\VoskTest\bin\Debug\VoskTest.pdb
+F:\GitHome\VoskTestProblem\VoskTest\bin\Debug\Vosk.dll
+F:\GitHome\VoskTestProblem\VoskTest\obj\Debug\VoskTest.csprojAssemblyReference.cache
+F:\GitHome\VoskTestProblem\VoskTest\obj\Debug\VoskTest.csproj.CoreCompileInputs.cache
+F:\GitHome\VoskTestProblem\VoskTest\obj\Debug\VoskTest.csproj.CopyComplete
+F:\GitHome\VoskTestProblem\VoskTest\obj\Debug\VoskTest.exe
+F:\GitHome\VoskTestProblem\VoskTest\obj\Debug\VoskTest.pdb
